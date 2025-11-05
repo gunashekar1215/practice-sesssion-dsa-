@@ -1,4 +1,4 @@
-#Represent a polynomial using linked list
+# Represent a polynomial using linked list
 #include <stdio.h>
 #include <stdlib.h>
 
